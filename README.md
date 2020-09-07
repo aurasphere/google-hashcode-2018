@@ -1,3 +1,5 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-orange.svg)](https://www.paypal.com/donate/?cmd=_donations&business=8UK2BZP2K8NSS)
+
 # Google HashCode 2018
 
 This repository contains my solution to the Google HashCode 2018 Qualification round problem. The solution is a simple greedy algorithm written in Java.
